@@ -1,10 +1,8 @@
 # GhostTrack
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
-
 New update :
-```Version 2.2```
+```Version 3.2```
 
 ### Instalation on Linux (deb)
 ```
@@ -21,14 +19,12 @@ pkg install python3
 ### Usage Tool
 ```
 git clone https://github.com/RyzziCyberv1/TrackerRYZ.git
-cd GhostTrack
+cd TrackerRYZ
 pip3 install -r requirements.txt
-python3 GhostTR.py
+python3 TrackerCyber.py
 ```
 
 Display on the menu ```IP Tracker```
-
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
 
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 <details>
